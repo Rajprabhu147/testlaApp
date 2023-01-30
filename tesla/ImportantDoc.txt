@@ -1,0 +1,23 @@
+An Expo user account is required to proceed.
+√ How would you like to authenticate? » Log in with an existing Expo account
+√ Username/Email Address: ... rajprabhuwork@gmail.com
+Bundle                     Size
+┌ index.ios.js           871 kB
+├ index.android.js       874 kB
+├ index.ios.js.map      3.63 MB
+└ index.android.js.map  3.64 MB
+
+💡 JavaScript bundle sizes affect startup time. Learn more: https://expo.fyi/javascript-bundle-sizes
+
+Analyzing assets
+Saving assets
+No assets changed, skipped.
+
+Processing asset bundle patterns:
+- C:\Users\rajpr\OneDrive\Desktop\work\workProjects\reactNative\tesla\**\*
+
+Uploading JavaScript bundles
+Publish complete
+
+📝  Manifest: https://exp.host/@rajprabhu147/tesla/index.exp?sdkVersion=47.0.0 Learn more: https://expo.fyi/manifest-url
+⚙️   Project page: https://expo.dev/@rajprabhu147/tesla?serviceType=classic&distribution=expo-go Learn more: https://expo.fyi/project-page
